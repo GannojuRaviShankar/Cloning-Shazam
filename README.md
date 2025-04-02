@@ -44,6 +44,9 @@ CHROMA_DB_PATH=your_path_to_chromadb_folder
 streamlit run genaifinal.py
 ```
 
+![image](https://github.com/user-attachments/assets/ea6782d2-1541-4f82-8e79-5df8dd48846a)
+
+
 ### **2️⃣ Upload an Audio File & Search**
 - Upload a **2-minute** audio recording of a movie/TV series.
 - The system will **transcribe** it into text.
